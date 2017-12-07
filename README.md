@@ -130,7 +130,7 @@ This file holds a dict with all you tests; its keys represent the categorie name
 In the categories each test is dict again with 3 keys, ie.       
 `"input"` -- an arguments list as for your functions input,   
 `"answer"` -- the correct data to be retuned for the arguments from the input list,   
-`"explanation"` -- this a not necessary key, it's used to provide additional animation data, its value may be `None` if you don't use it.   
+`"explanation"` -- this a not necessary key, it's used to provide additional animation data, its value shall be `None` (or just remove this key) if you don't want use an animaion.     
 in the file you will find a detailed description, an example is also included.
 
 
