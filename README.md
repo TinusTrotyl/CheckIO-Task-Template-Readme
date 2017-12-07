@@ -121,11 +121,16 @@ Further description of this will be added later.
 The files in this folder are for 'Check'.   
 They contain a referee and additional files with your tests.   
 
-##### referee. py
-At `python: 'function name'` and `js: 'function name'` you can state the identifier your function is to be called with (line 41, 42).   
-This file also contains a referee and additional files for tests; in the file itself you find a detailed description for its use.
+##### referee. py   
+This file also contains a referee and additional files for tests.   
+Line 41: `python: 'function name'` and line 42: `js: 'function name'`.  At `'function name'` you can state the identifier of your function to which the arguments you listed at **test.py** will be parsed for testing.
+In the file itself you find a detailed description for its use.
 ##### tests. py
-Here you can add your test cases; in the file itself you find a detailed description for its use.   
-Also, an example is included.
+This file holds a dict with all you tests; its keys represent the categorie names of your tests eg. basics, extra, etc.      
+In the categories each test is dict again with 3 keys, ie.       
+`"input"` -- an arguments list as for your functions input,   
+`"answer"` -- the correct data to be retuned for the arguments from the input list,   
+`"explanation"` -- this a not necessary key, it's used to provide additional animation data, its value may be `None` if you don't use it.   
+in the file you will find a detailed description, an example is also included.
 
 
