@@ -65,8 +65,9 @@ The task runner will show either one of these icons and users will be able to cl
 All icons shoud match the folowing specifications:    
 **Colors:** Icons should be created with the specified icons' colors from our colors guide: `info/media/color.pdf`.       
 **Size:** Icons should be sized 128x128 px and placed inside a dark grey(#737370) colored block (size 116x116 px), outer corners rounded to a radius of 10px.    
-**Disabled:** The 'disabled' icon drawing is represented in light grey(#EBEDED).   
-**Enabled:** The 'enabled' icon shows the same drawing and colors as the 'disabled' one; this time however, some blue(#82D1F5) collored details have been added to accentuate its active status.   
+**Icon status:** On both icons,  'disabled' and  'enabled', shows the same drawing represented in light grey(#EBEDED).   
+At the 'enabled' icon however, some details of this drawing have been accentuated by a blue(#82D1F5) collor to highlight its active status.    
+   
 You can use the given templates.    
 
 #### story.html
