@@ -34,7 +34,7 @@ This file is a description for your task. Here, you should explain the goal of t
 When writing this file, you must use proper HTML syntax for the description to be readable on the site as it will be inserted on the task page as a HTML block.
 
 ##### Task's text
-Next, you must write the main description of the task.    
+Here is where you place the main description of the task.    
 You can insert some images for explanation (see below for information about images)    
 and you can use html tags as ```em```, ```strong``` or ```pre``` to display formulas or example code.   
 Each paragraph or div element can have the class  "for_editor_only" or "for_info_only".   
