@@ -61,7 +61,7 @@ Illustrations should be created with respect to our colors guide.
 (`info/media/example.png` or  `info/vectors/color.pdf`)
 
 ##### Icons
-Icons for the task are placed inside the `info/logo` folder.
+Icons for the task are placed inside the `info/logo` folder.   
 Icons are created as a pair: **disabled.svg** for unsolved tasks and **enabled.svg** for solved tasks.
 In the task runner you will see one of these where you can click on it.
 Icons should be created with specified icons' colors from our colors guide: `info/media/color.pdf`.
