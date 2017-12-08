@@ -52,7 +52,7 @@ This section gives some examples for the task.
 You can use the ```pre``` tag with class "brush: python" for syntax highlighting.   
 
 ##### Images
-You can paste some images to illustate your task.   
+You can paste some images in your text to illustate your task.   
 The image files must be placed inside the `ìnfo/media` folder.   
 The link to these is defined as src="{{ MEDIA_URL }}/*image-name.png*"   
 Illustrations should be created with respect to our colors guide: `info/colors.pdf`.   
