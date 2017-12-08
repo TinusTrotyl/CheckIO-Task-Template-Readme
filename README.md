@@ -13,7 +13,7 @@ your file and naming conventions.
 [Magic square](https://github.com/Bryukh-Checkio-Tasks/checkio-task-magic-square)   
 
 
-## Some more examples made by CheckIO's users
+## Examples made by CheckIO's users
 
 Several users took the challenge to create their own missions, you can view (and solve!) them on CheckiO.   
 Like [Amachua](http://www.checkio.org/user/Amachua/)’s [Sudoku Solver](http://www.checkio.org/mission/sudokusolver/) or [Suwanditan](http://www.checkio.org/user/suwanditan/)’s [Periodic Table](http://www.checkio.org/mission/periodic-table/).     
