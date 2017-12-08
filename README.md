@@ -56,17 +56,16 @@ You can paste some images to illustate your task.
 The image files must be placed inside the `ìnfo/media` folder.   
 The link to these is defined as src="{{ MEDIA_URL }}/*image-name.png*"   
 Illustrations should be created with respect to our colors guide: `info/colors.pdf`.   
+     
 An example:     
 ```
 <p class="for_info_only" style="text-align: center;">
     <img  title="image-name" src="{{MEDIA}}image-name.png" alt="image-name" style="max-height: 100px"/>
 </p>
 ```   
-This will place a picture which will scaled down to a height of 100 pixels in a html paragarph.
-Due `class="for_info_only"` it will only show up in the main task discription,
-where it will be alined to the horizontal center of the page `style="text-align: center;`.
-
-
+This will place a picture which will scaled down to a height of 100 pixels in a html paragarph.   
+Due `class="for_info_only"` it will only show up in the main task discription,   
+where it will be alined to the horizontal center of the page `style="text-align: center;`.   
 
 ##### Icons
 Icons for the task are placed inside the `info/logo` folder.   
