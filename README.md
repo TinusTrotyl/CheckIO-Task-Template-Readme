@@ -57,7 +57,7 @@ The image files must be placed inside the `ìnfo/media` folder.
 The link to these is defined as src="{{ MEDIA_URL }}/*image-name.png*"   
 Illustrations should be created with respect to our colors guide: `info/colors.pdf`.   
      
-An example:     
+##### Example     
 ```
 <p class="for_info_only" style="text-align: center;">
     <img  title="image-name" src="{{MEDIA}}image-name.png" alt="image-name" style="max-height: 100px"/>
