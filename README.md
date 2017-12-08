@@ -31,7 +31,7 @@ This folder contains information about the task's mission.
 #### task_description.html
 
 This file is a description for your task. Here, you should explain the goal of the task.   
-When writing this file, you must use proper HTML syntax for the description to be readable on the site as it will be inserted on the task page as a HTML block.
+When writing this file, you must use proper HTML syntax for the description to be readable on the site as it will be inserted on the task page as a HTML block.    
 If you are not familiar with html code, you can find a choise of on-line free html editors on the www .  
 
 ##### Task's text
